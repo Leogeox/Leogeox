@@ -14,6 +14,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: Leogeox/Leogeox@main
+      - uses: leogeox/metrics@master
         with:
           token: ${{ secrets.METRIC_TOKEN }}
