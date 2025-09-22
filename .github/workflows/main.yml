@@ -16,4 +16,4 @@ jobs:
     steps:
       - uses: Leogeox/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRIC_TOKEN }}
