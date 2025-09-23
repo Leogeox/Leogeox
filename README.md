@@ -32,8 +32,6 @@
 <br>
 <br>
 
-<h1 align="center"></h1>
+<h1></h1>
 
-<br>
-
-<h4 align="center">May the force be with you.</h4>
+<h3 align="center">May the force be with you.</h3>
