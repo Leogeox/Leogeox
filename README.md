@@ -1,5 +1,5 @@
 #  A Long Time Ago In a Codebase Far, Far Away
-*ta ta tatatata ta ta tintintintinn*
+*ta ta tatatata ta tin tintintinn*
 <br>
 
 <img src="img/gif2.gif" width="1000">
