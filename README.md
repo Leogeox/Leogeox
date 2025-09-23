@@ -1,4 +1,5 @@
 ## About Me
+<image>
 
 Well well well, looks like you ended up here! Might as well take this opportunity to introduce myself
 <br> I am Léo, a french dev student who tries to code 
