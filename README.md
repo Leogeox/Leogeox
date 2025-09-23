@@ -6,8 +6,7 @@
 <img src="img/gif2.gif" width="1000">
 
 
-Hello **Padawan**, it looks like you ended up here! Might as well take this opportunity to introduce myself.
-<br> I am Léo, a french dev student who tries to find his way throught all of his code </p>
+Hello **Padawan**, it looks like you ended up here! Might as well take this opportunity to introduce myself.  I am Léo, a french dev student who tries to find his way throught all of his code and somthing something
 <br>
 
 ## Skills
