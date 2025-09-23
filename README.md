@@ -3,7 +3,7 @@
   <img src="img/gif2.gif" width="1000">
 </p>
 
-<p align="center"> Hello young padawan, looks like you ended up here! Might as well take this opportunity to introduce myself, shall i?
+<p align="center"> Hello young padawan, looks like you ended up here! Might as well take this opportunity to introduce myself.
 <br> I am Léo, a french dev student who tries to find his way throught all of his code </p>
 <br>
 
