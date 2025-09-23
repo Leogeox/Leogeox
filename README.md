@@ -11,26 +11,25 @@
 <h1 align="center">Skills</h1>
 
 <div align="center">
-  <img src="img/HTML.svg" width="90"> 
-  <img src="img/CSS.svg" width="90"> 
-  <img src="img/JavaScript.svg" width="90"> 
-  <img src="img/ThreeJS-Dark.svg" width="90">
-  <img src="img/Python-Dark.svg" width="90"> 
-  <img src="img/PHP-Dark.svg" width="90">
-  <img src="img/MySQL-Dark.svg" width="90">
-  <img src="img/CS.svg" width="90">
+  <img src="img/HTML.svg" width="80"> 
+  <img src="img/CSS.svg" width="80"> 
+  <img src="img/JavaScript.svg" width="80"> 
+  <img src="img/ThreeJS-Dark.svg" width="80">
+  <img src="img/Python-Dark.svg" width="80"> 
+  <img src="img/PHP-Dark.svg" width="80">
+  <img src="img/MySQL-Dark.svg" width="80">
+  <img src="img/CS.svg" width="80">
   
-  <br>
   <br>
   
 <h4>Hard Skills</h4>
 
-  <img src="img/Blender-Dark.svg" width="80">
-  <img src="img/Illustrator.svg" width="80">
-  <img src="img/Photoshop.svg" width="80">
-  <img src="img/Figma-Dark.svg" width="80">
-  <img src="img/Github-Dark.svg" width="80">
-  <img src="img/Unity-Dark.svg" width="80">
+  <img src="img/Blender-Dark.svg" width="70">
+  <img src="img/Illustrator.svg" width="70">
+  <img src="img/Photoshop.svg" width="70">
+  <img src="img/Figma-Dark.svg" width="70">
+  <img src="img/Github-Dark.svg" width="70">
+  <img src="img/Unity-Dark.svg" width="70">
   
 </div>
 
