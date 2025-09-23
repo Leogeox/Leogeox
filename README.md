@@ -1,9 +1,12 @@
 # About Me
+<h2 align="center"> A Long Time Ago In a Galaxy Far, Far Away </h2>
+<p align="center">ta ta tatatata ta ta tintintinn</p>
+
 <p align="center">
   <img src="img/gif2.gif" width="1000">
 </p>
 
-<p align="center"> Hello young padawan, looks like you ended up here! Might as well take this opportunity to introduce myself.
+<p align="center"> Hello Padawan, it looks like you ended up here! Might as well take this opportunity to introduce myself.
 <br> I am Léo, a french dev student who tries to find his way throught all of his code </p>
 <br>
 
