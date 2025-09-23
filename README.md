@@ -1,16 +1,15 @@
-## Hi there 👋
+## About Me
 
-<!--
-**Leogeox/Leogeox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Well well well, looks like you ended up here! Might as well take this opportunity to introduce myself
+<br> I am Léo, a french dev student who tries to code 
+<br> Always looking out to get better
+<br>
 
-Here are some ideas to get you started:
+## Skills
+<img src="img/icon/html.png" width="110"> <img src="img/icon/css.png" width="110"> <img src="img/icon/js.png" width="110"> <img src="img/icon/python.png" width="110">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## Contacts
+email : leoviginx@gmail.com
+
