@@ -12,9 +12,10 @@ Hello **Padawan**, it looks like you ended up here! Might as well take this oppo
 ## Skills
 <img src="img/html.png" width="110"> <img src="img/css.png" width="110"> <img src="img/js.png" width="110"> <img src="img/py.png" width="110">
 
-<br>
-May the force be with you.
-
 ## Contacts
 email : leoviginx@gmail.com
+
+<br>
+
+# May the force be with you.
 
