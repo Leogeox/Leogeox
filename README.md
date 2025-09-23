@@ -3,7 +3,7 @@
 *ta ta tatatata ta ta tintintinn*
 <br>
 
-<img src="img/gif2.gif" width="1100">
+<img src="img/gif2.gif" width="1000">
 
 
 Hello **Padawan**, it looks like you ended up here! Might as well take this opportunity to introduce myself.
