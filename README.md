@@ -1,4 +1,4 @@
-#  Long Time Ago In a Galaxy Far, Far Away
+#  A Long Time Ago In a Galaxy Far, Far Away
 *ta ta tatatata ta ta tintintinn*
 <br>
 
