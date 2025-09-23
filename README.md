@@ -8,7 +8,14 @@
 
 <h1 align="center">Skills</h1>
 <div align="center">
-  <img src="img/html.png" width="100"> <img src="img/css.png" width="100"> <img src="img/js.png" width="100"> <img src="img/py.png" width="100">
+  <img src="img/HTML.svg" width="100"> 
+  <img src="img/CSS.svg" width="100"> 
+  <img src="img/JavaScript.svg" width="100"> 
+  <img src="img/Python-Dark.svg" width="100"> 
+  <img src="img/CS.svg" width="100">
+  <img src="img/PHP-Dark.svg" width="100">
+  <img src="img/MySQL-Dark.svg" width="100">
+  
 </div>
 
 <h1 align="center">Contacts</h1>
