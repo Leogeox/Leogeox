@@ -16,8 +16,9 @@
   <img src="img/ThreeJS-Dark.svg" width="80">
   <img src="img/Python-Dark.svg" width="80"> 
   <img src="img/PHP-Dark.svg" width="80">
-  <img src="img/MySQL-Dark.svg" width="80">
   <img src="img/CS.svg" width="80">
+  <img src="img/MySQL-Dark.svg" width="80">
+  <img src="img/Git.svg" width="80">
 
 ##
 
