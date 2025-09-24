@@ -12,13 +12,14 @@
   <img src="img/HTML.svg" width="80"> 
   <img src="img/CSS.svg" width="80"> 
   <img src="img/JavaScript.svg" width="80"> 
+  <img src="img/Npm-Dark.svg" width="80">
   <img src="img/ThreeJS-Dark.svg" width="80">
   <img src="img/Python-Dark.svg" width="80"> 
   <img src="img/PHP-Dark.svg" width="80">
   <img src="img/MySQL-Dark.svg" width="80">
   <img src="img/CS.svg" width="80">
-  
-<h4>Hard Skills</h4>
+
+##
 
   <img src="img/Blender-Dark.svg" width="70">
   <img src="img/Illustrator.svg" width="70">
@@ -29,8 +30,6 @@
   
 </div>
 
-<br>
-<br>
 
 <h1></h1>
 
