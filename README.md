@@ -10,13 +10,16 @@
 
 <div align="center">
   <img src="img/HTML.svg" width="80"> 
+  <br>
   <img src="img/CSS.svg" width="80"> 
-  <img src="img/JavaScript.svg" width="80"> 
+  <img src="img/TailwindCSS-Dark.svg" width="80">
   <br>
   <img src="img/Npm-Dark.svg" width="80">
   <img src="img/ThreeJS-Dark.svg" width="80">
+  <img src="img/NuxtJS-Dark.svg" width="80">
   <img src="img/Git.svg" width="80">
   <br>
+  <img src="img/JavaScript.svg" width="80"> 
   <img src="img/Python-Dark.svg" width="80"> 
   <img src="img/PHP-Dark.svg" width="80">
   <img src="img/CS.svg" width="80">
