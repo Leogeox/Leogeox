@@ -6,7 +6,8 @@
   <tr>
     <!-- Left Column -->
     <td align="left" style="width:50%; padding-right:20px;">
-      <p>My name is Léo and I am a web dev currently studying at IIM - Pôle Léonard de Vinci in France.</p>
+      <p>My name is Léo and I am a web dev currently studying at IIM - Pôle Léonard de Vinci in France.
+      <br>I sleep, eat, code and play on repeat </p>
       <h2>Tech and Framework</h2>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" />
