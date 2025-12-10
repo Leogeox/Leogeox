@@ -28,7 +28,7 @@
     </td>
     <!-- Right Column -->
     <td align="right" style="width:50%;">
-      <img height="600" src="download.jpg" />
+      <img height="600" src="src/download.jpg" />
       <br>
        <div align="right">
           <a href="https://www.linkedin.com/in/leo-y-vigin/" target="_blank">
